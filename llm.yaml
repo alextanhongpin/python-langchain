@@ -1,0 +1,11 @@
+_type: openai
+best_of: 2
+frequency_penalty: 0
+logit_bias: {}
+max_tokens: 256
+model_name: text-ada-001
+n: 2
+presence_penalty: 0
+request_timeout: null
+temperature: 0.7
+top_p: 1
